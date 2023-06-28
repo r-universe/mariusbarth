@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "tinylabels"]
 	path = tinylabels
 	url = https://github.com/mariusbarth/tinylabels
-	shallow = true
-	registered = true
